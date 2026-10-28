@@ -1,0 +1,23 @@
+
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Maven build output
+target/
+
+# Gradle build output
+build/
+.gradle/
+
+# Local secrets
+.env
+.env.*
+!.env.example
